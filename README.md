@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![views](https://komarev.com/ghpvc/?username=orhun&style=flat&color=313131&label=views)](https://github.com/orhun)
+
 <!--
 **trebla64/trebla64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
